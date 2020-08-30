@@ -1,4 +1,4 @@
-# 欢迎来到 “up主很饿，要喂蕉蕉！ ”的个人网站
+# 欢迎来到 “up主很饿，要喂蕉蕉！” 的个人网站
 
 哦，我的老朋友，好久不见，你一定十分想念我了，不妨看看[我的AcFun主页](https://www.acfun.cn/u/35925535)吧！如果我有新的文章或视频，麻烦给我投个蕉、点个赞、收个藏、分个享吧！
 
@@ -8,9 +8,13 @@
 
 ##### *此版块提供了往期视频、文章中出现的网页链接*
 
-2020-08-26 ac17608351 把某度网盘的重要资料导出到其他网盘の神器！太良心了！ [MultCloud](https://www.multcloud.com/)
+2020-08-26 ac17608351 把某度网盘的重要资料导出到其他网盘の神器！太良心了！
 
-2020-07-09 ac16727969 最新+超详细Win To Go制作教程 [WinToGo](https://www.disktool.cn/wintogo.html)  [Win 10镜像（一）](https://www.microsoft.com/zh-cn/software-download/windows10)  [Win 10镜像（二）](https://next.itellyou.cn/Original/Index)
+资源： [MultCloud](https://www.multcloud.com/)
+
+2020-07-09 ac16727969 最新+超详细Win To Go制作教程
+
+资源：[WinToGo](https://www.disktool.cn/wintogo.html)，[Win 10镜像（一）](https://www.microsoft.com/zh-cn/software-download/windows10)，[Win 10镜像（二）](https://next.itellyou.cn/Original/Index)
 
 ### 资源链接提供
 
@@ -28,4 +32,6 @@
 
 ------
 
-网站各版块中内容均以  *时间从近到远*  排列                    联系邮箱：up-up-star@outlook.com
+网站各版块中内容均以   *时间从近到远*   排列
+
+联系邮箱：up-up-star@outlook.com
