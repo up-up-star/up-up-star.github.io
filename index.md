@@ -10,11 +10,11 @@
 
 2020-08-26 ac17608351 把某度网盘的重要资料导出到其他网盘の神器！太良心了！
 
-资源： [MultCloud](https://www.multcloud.com/)
+链接： [MultCloud](https://www.multcloud.com/)
 
 2020-07-09 ac16727969 最新+超详细Win To Go制作教程
 
-资源：[WinToGo](https://www.disktool.cn/wintogo.html)，[Win 10镜像（一）](https://www.microsoft.com/zh-cn/software-download/windows10)，[Win 10镜像（二）](https://next.itellyou.cn/Original/Index)
+链接：[WinToGo](https://www.disktool.cn/wintogo.html)，[Win 10镜像（一）](https://www.microsoft.com/zh-cn/software-download/windows10)，[Win 10镜像（二）](https://next.itellyou.cn/Original/Index)
 
 ### 资源链接提供
 
