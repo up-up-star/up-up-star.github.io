@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# 欢迎来到 “up主很饿，要喂蕉蕉！ ”的个人网站
 
-You can use the [editor on GitHub](https://github.com/up-up-star/up-up-star.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+哦，我的老朋友，好久不见，你一定十分想念我了，不妨看看[我的AcFun主页](https://www.acfun.cn/u/35925535)吧！如果我有新的文章或视频，麻烦给我投个蕉、点个赞、收个藏、分个享吧！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+本页面可以查看我的往期视频、文章，并且有我在视频、文章中提供的一些网站的链接和资源，请大家在下方自行查找；你也可以按下”Ctrl + F“，在搜索框内输入视频、文章的标题、发布日期或视频、文章号码来快速查找对应资源！
 
-### Markdown
+### 网站链接提供
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##### *此版块提供了往期视频、文章中出现的网页链接*
 
-```markdown
-Syntax highlighted code block
+2020-08-26 ac17608351 把某度网盘的重要资料导出到其他网盘の神器！太良心了！ [MultCloud](https://www.multcloud.com/)
 
-# Header 1
-## Header 2
-### Header 3
+2020-07-09 ac16727969 最新+超详细Win To Go制作教程 [WinToGo](https://www.disktool.cn/wintogo.html) [Win 10镜像①](https://www.microsoft.com/zh-cn/software-download/windows10) [Win 10镜像②](https://next.itellyou.cn/Original/Index)
 
-- Bulleted
-- List
+### 资源链接提供
 
-1. Numbered
-2. List
+##### *此版块提供了往期视频、文章中出现的资源，我把它们存放在网盘中的分享链接*
 
-**Bold** and _Italic_ and `Code` text
+诶……这里还什么没有呢
 
-[Link](url) and ![Image](src)
-```
+### 往期视频、文章提供
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+##### *此版块提供了我的往期视频、文章链接*
 
-### Jekyll Themes
+##### [2020-08-26 ac17608351 把某度网盘的重要资料导出到其他网盘の神器！太良心了！](https://www.acfun.cn/a/ac17608351)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/up-up-star/up-up-star.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[2020-07-09 ac16727969 最新+超详细Win To Go制作教程](https://www.acfun.cn/a/ac16727969)
 
-### Support or Contact
+------
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+本网站由 [GitHub](https://github.com/) 制作，同时网站各版块中内容均以 *时间从近到远* 排列
+
+联系邮箱：up-up-star@outlook.com
