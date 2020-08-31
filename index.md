@@ -10,17 +10,19 @@
 
 2020-08-26 ac17608351 把某度网盘的重要资料导出到其他网盘の神器！太良心了！
 
-资源： [MultCloud](https://www.multcloud.com/)
+链接： [MultCloud](https://www.multcloud.com/)
 
 2020-07-09 ac16727969 最新+超详细Win To Go制作教程
 
-资源：[WinToGo](https://www.disktool.cn/wintogo.html)，[Win 10镜像（一）](https://www.microsoft.com/zh-cn/software-download/windows10)，[Win 10镜像（二）](https://next.itellyou.cn/Original/Index)
+链接：[WinToGo](https://www.disktool.cn/wintogo.html)，[Win 10镜像（一）](https://www.microsoft.com/zh-cn/software-download/windows10)，[Win 10镜像（二）](https://next.itellyou.cn/Original/Index)
 
 ### 资源链接提供
 
 ##### *此版块提供了往期视频、文章中出现的资源，我把它们存放在网盘中的分享链接*
 
-诶……这里还什么没有呢
+2020-08-31 ac17689646 什么？可以用32倍速刷A站了！时间管理大师直呼内行！
+
+资源：[和彩云网盘分享链接](http://caiyun.feixin.10086.cn/dl/105Cq7Eplgqdg)，提取码：XHsQ
 
 ### 往期视频、文章提供
 
@@ -29,6 +31,8 @@
 [2020-08-26 ac17608351 把某度网盘的重要资料导出到其他网盘の神器！太良心了！](https://www.acfun.cn/a/ac17608351)
 
 [2020-07-09 ac16727969 最新+超详细Win To Go制作教程](https://www.acfun.cn/a/ac16727969)
+
+[2020-08-31 ac17689646 什么？可以用32倍速刷A站了！时间管理大师直呼内行！](https://www.acfun.cn/a/ac17689646)
 
 ------
 
