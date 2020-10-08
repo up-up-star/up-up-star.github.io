@@ -48,10 +48,10 @@
 
 ------
 
-——终于，在大家的墙裂要求下，我们的小网站正式推出了每日涩图！以后，每天在这里都能看到二次元涩图哦~
+——终于，在大家的墙裂要求下，我们的小网站正式推出了图片推送！以后，每天在这里都能看到二次元美图哦~
 
 *图片是人工手动上传的……可能会有更新不及时的情况，请大家多多谅解！
 
 **图片来源于网络，如有侵权可以联络上方的邮箱删除
 
-![](https://raw.githubusercontent.com/up-up-star/up-up-star.github.io/master/img/QQ%E5%9B%BE%E7%89%8720201007145544.jpg)
+![](https://raw.githubusercontent.com/up-up-star/up-up-star.github.io/master/QQ%E5%9B%BE%E7%89%8720201007152204.jpg)
